@@ -1,0 +1,4 @@
+import statistics
+
+grade = statistics.mean([10, 12, 7, 10, 12, 12, 12, 7])
+print(grade)
